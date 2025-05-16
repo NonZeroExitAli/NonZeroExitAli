@@ -11,7 +11,7 @@
 - 🔭 I’m currently working on [Machine and Deep Learning for Anti-Microbial Peptides Identification](https://github.com/NonZeroExitAli/EVALUATING-MACHINE-LEARNING-CLASSIFIERS-FOR-EFFECTIVE-IDENTIFICATION-OF-ANTIMICROBIAL-PEPTIDES).
 - 🌱 I’m currently learning **Neural Networks**.
 - 👯 I’m looking to collaborate on **Machine and Deep Learning Projects**.
-- 📄 Check out my experiences in my [Resume](https://drive.google.com/file/d/14WGq_rgzYb1n157wthkHWAMfkTzjEblN/view?usp=sharing).
+- 📄 Check out my experiences in my [Resume](https://drive.google.com/file/d/1pFQ8OVewgWa7FQAnsoFcOyYxuNviX1EY/view?usp=drive_link).
 - 📫 Reach me at **s-ali.afifi@zewailcity.edu.eg**.
 - ⚡ Fun Fact: **I listen to cringy songs** 🎵.
 
