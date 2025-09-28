@@ -51,7 +51,7 @@
 
 ### 🌐 Connect with Me:
 <p align="left">
-  <a href="[https://twitter.com/nonzeroexitali](https://x.com/lostalolo)" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" /></a>
+  <a href="https://x.com/lostalolo" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="X (Twitter)" height="30" width="40" /></a>
   <a href="https://linkedin.com/in/alimagdiafifimlguy" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
   <a href="https://fb.com/3loloh" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" /></a>
 </p>
@@ -59,7 +59,7 @@
 ---
 
 <p align="center">
-  <a href="[https://twitter.com/lostalolo](https://x.com/lostalolo)" target="blank">
+  <a href="https://x.com/lostalolo" target="blank">
     <img src="https://img.shields.io/twitter/follow/lostalolo?logo=twitter&style=for-the-badge" alt="Twitter Follow" />
   </a>
 </p>
