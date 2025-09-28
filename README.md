@@ -8,14 +8,16 @@
 ---
 
 ### 🚀 About Me:
+- 🎓 I’m currently pursuing a **Master’s degree in Bioinformatics for Computational Genomics** — a **joint program** between the **University of Milan (UniMi)** and **Politecnico di Milano (PoliMi)**.
 - 🔭 I’m currently working on [Machine and Deep Learning for Anti-Microbial Peptides Identification](https://github.com/NonZeroExitAli/EVALUATING-MACHINE-LEARNING-CLASSIFIERS-FOR-EFFECTIVE-IDENTIFICATION-OF-ANTIMICROBIAL-PEPTIDES).
 - 🌱 I’m currently learning **Neural Networks**.
 - 👯 I’m looking to collaborate on **Machine and Deep Learning Projects**.
 - 📄 Check out my experiences in my [Resume](https://drive.google.com/file/d/1873OKU9XYOpe_N114t-qYMtY0rdMnAnh/view?usp=sharing).
-- 📫 Reach me at **s-ali.afifi@zewailcity.edu.eg**.
+- 📫 Reach me at **alimagdi.abdalhalim@mail.polimi.it**.
 - ⚡ Fun Fact: **I listen to cringy songs** 🎵.
 
 ---
+
 ### 🛠️ Languages and Tools:
 <p align="left"> 
   <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/> </a>
