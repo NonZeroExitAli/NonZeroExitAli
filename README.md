@@ -59,7 +59,7 @@
 ---
 
 <p align="center">
-  <a href="https://twitter.com/nonzeroexitali" target="blank">
+  <a href="https://twitter.com/lostalolo" target="blank">
     <img src="https://img.shields.io/twitter/follow/nonzeroexitali?logo=twitter&style=for-the-badge" alt="Twitter Follow" />
   </a>
 </p>
