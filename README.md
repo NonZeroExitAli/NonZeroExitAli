@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ali Magdi</h1>
+<h1 align="center">Hi 👋, I'm Ali Abdalhalim</h1>
 <h3 align="center">A passionate Computational Biologist from Egypt</h3>
 
 <p align="center">
