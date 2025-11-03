@@ -88,9 +88,7 @@
 
 ### 🐍 Contribution Snake
 
-<p align="center">
-  <img src="https://github.com/NonZeroExitAli/NonZeroExitAli/blob/output/github-contribution-grid-snake.svg" alt="GitHub Snake Animation" />
-</p>
+<p align="center"> <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="Contribution Snake" /> </p>
 
 
 ---
