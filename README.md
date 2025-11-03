@@ -29,7 +29,7 @@
 
 ---
 
-### My Life Style
+### 💫 My Life Style
 
 <p align="center">
   <img src="https://media.giphy.com/media/xTiTnqUxyWbsAXq7Ju/giphy.gif" width="150"/>
@@ -86,7 +86,7 @@
 
 ---
 
-### 🐍 Contribution Snake
+### 🐍 Contribution
 
 <p align="center"> <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="Contribution Snake" /> </p>
 
