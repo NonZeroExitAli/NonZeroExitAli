@@ -1,29 +1,21 @@
-<!-- 🌌✨ Epic Intro Banner -->
+<!-- 🌌🌟 Epic Animated Entrance -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0A74DA,100:00C3FF&text=🚀%20Ali%20Abdalhalim%20🚀&fontColor=ffffff&fontSize=50&fontAlignY=40&desc=Computational%20Biologist%20%7C%20AI%20Explorer%20%7C%20Dreamer&descAlignY=65&animation=fadeIn" alt="Ali Abdalhalim Header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0A74DA,100:00C3FF&text=%20Ali%20Abdalhalim%20&fontColor=ffffff&fontSize=60&fontAlignY=40&desc=Computational%20Biologist%20%7C%20Human%20%7C%20Dreamer&descAlignY=65&animation=twinkling" alt="Ali Abdalhalim Header"/>
 </p>
 
-<!-- 🧠 Signature Quote -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=800&color=00C3FF&center=true&vCenter=true&width=1000&lines=🚀+Welcome+to+My+World;Where+Science+Meets+Dreams;And+Every+Line+of+Code+Writes+a+New+Story;Hi+I'm+Ali+Abdalhalim+🧬;A+Computational+Biologist+Fighting+Burnout+with+Purpose" alt="Typing Animation"/>
+</p>
+
+<p align="center">
+  <img src="https://github.com/NonZeroExitAli/NonZeroExitAli/assets/your-gif-id/futuristic_line.gif" width="700" alt="Animated Divider"/>
+</p>
 
 <h3 align="center">
   <em>“The clever solve problems, but the wise avoid them.”</em><br>
-  — <strong>Albert Einstein</strong> 🌌
+  — <strong>Albert Einstein</strong> 
 </h3>
-
----
-
-<!-- 🪩 Typing Animation -->
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00C3FF&center=true&vCenter=true&width=1000&lines=Hi+👋,+I'm+Ali+Abdalhalim;Computational+Biologist+from+Egypt;Bioinformatics+%7C+Machine+Learning+%7C+Genomics;Turning+Data+Into+Discovery+🧬" alt="Typing Animation"/>
-</p>
-
-<h3 align="center">🧬 Computational Biologist | AI Enthusiast | Curious Mind 💡</h3>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=nonzeroexitali&label=Profile%20views&color=1E90FF&style=for-the-badge" alt="Profile Views" />
-</p>
 
 ---
 
@@ -35,6 +27,26 @@
 🧠 Passionate about **Computational Biology, Genomics, and AI**  
 🎧 Fun Fact: *I listen to cringy songs while coding 🎵*  
 📫 **[alimagdi.abdalhalim@mail.polimi.it](mailto:alimagdi.abdalhalim@mail.polimi.it)**
+
+---
+
+### 🌧️ Real Ali 
+
+<div align="center">
+
+💭 *"Not every day feels like progress..."*  
+
+🌍 My dream isn’t just about work —  
+it’s about **discovering new sciences**, **exploring hidden patterns**, and **living with meaning**.  
+I want to travel the world, create a warm home, and feel truly *alive*,  
+not trapped in the loop of a machine’s routine. 🌱✨  
+
+---
+
+🔥 *“I may not be there yet, but I’m closer than yesterday.”*  
+
+</div>
+
 
 ---
 
@@ -104,9 +116,7 @@
 
 ### 🐍 Contribution Snake
 
-<p align="center"> 
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="Contribution Snake" /> 
-</p>
+<p align="center"> <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="Contribution Snake" /> </p>
 
 ---
 
