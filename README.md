@@ -1,8 +1,17 @@
-<!-- 🌌 Animated Header Banner -->
+<!-- 🌌✨ Epic Intro Banner -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:1E90FF,100:00C3FF&text=✨%20Ali%20Abdalhalim%20✨&fontColor=ffffff&fontSize=45&fontAlignY=40&desc=Computational%20Biologist%20%7C%20AI%20Explorer&descAlignY=65&animation=twinkling" alt="Ali Magdi Header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0A74DA,100:00C3FF&text=🚀%20Ali%20Abdalhalim%20🚀&fontColor=ffffff&fontSize=50&fontAlignY=40&desc=Computational%20Biologist%20%7C%20AI%20Explorer%20%7C%20Dreamer&descAlignY=65&animation=fadeIn" alt="Ali Abdalhalim Header"/>
 </p>
+
+<!-- 🧠 Signature Quote -->
+
+<h3 align="center">
+  <em>“The clever solve problems, but the wise avoid them.”</em><br>
+  — <strong>Albert Einstein</strong> 🌌
+</h3>
+
+---
 
 <!-- 🪩 Typing Animation -->
 
@@ -20,11 +29,11 @@
 
 ### 🌟 About Me
 
-🎓 MSc student in **Bioinformatics for Computational Genomics** *(UniMi × PoliMi)*
-🔬 Researching **Machine & Deep Learning for Antimicrobial Peptide Prediction**
-💻 Developing [EPIC-AMP](https://github.com/NonZeroExitAli/EVALUATING-MACHINE-LEARNING-CLASSIFIERS-FOR-EFFECTIVE-IDENTIFICATION-OF-ANTIMICROBIAL-PEPTIDES)
-🧠 Passionate about **Computational Biology, Genomics, and AI**
-🎧 Fun Fact: *I listen to cringy songs while coding 🎵*
+🎓 MSc student in **Bioinformatics for Computational Genomics** *(UniMi × PoliMi)*  
+🔬 Researching **Machine & Deep Learning for Antimicrobial Peptide Prediction**  
+💻 Developing [EPIC-AMP](https://github.com/NonZeroExitAli/EVALUATING-MACHINE-LEARNING-CLASSIFIERS-FOR-EFFECTIVE-IDENTIFICATION-OF-ANTIMICROBIAL-PEPTIDES)  
+🧠 Passionate about **Computational Biology, Genomics, and AI**  
+🎧 Fun Fact: *I listen to cringy songs while coding 🎵*  
 📫 **[alimagdi.abdalhalim@mail.polimi.it](mailto:alimagdi.abdalhalim@mail.polimi.it)**
 
 ---
@@ -47,13 +56,12 @@
 
 > *“Empower biology with intelligence — and intelligence with biology.”*
 
-🌱 Learning: Neural Networks • Protein Structure Prediction • Databases
+🌱 Learning: Neural Networks • Protein Structure Prediction • Databases  
 🧬 Research Focus:
-
-* Biosequence Classification
-* Feature Extraction & Embedding
-* Model Optimization for Genomic Data
-* Predictive Modeling for AMPs
+* Biosequence Classification  
+* Feature Extraction & Embedding  
+* Model Optimization for Genomic Data  
+* Predictive Modeling for AMPs  
 
 ---
 
@@ -86,10 +94,19 @@
 
 ---
 
-### 🐍 Contribution
+### 🧩 Profile Summary Graph
 
-<p align="center"> <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="Contribution Snake" /> </p>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nonzeroexitali&theme=tokyonight" alt="Profile Summary"/>
+</p>
 
+---
+
+### 🐍 Contribution Snake
+
+<p align="center"> 
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="Contribution Snake" /> 
+</p>
 
 ---
 
@@ -103,4 +120,8 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Made%20with%20💙%20by-Ali%20Abdalhalim-1E90FF?style=for-the-badge" />
+</p>
+
+<p align="center">
+  ⭐ <b>Show some love — Star my repositories if you like them!</b> ⭐
 </p>
