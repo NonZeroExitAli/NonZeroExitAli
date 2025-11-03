@@ -29,7 +29,7 @@
 
 ---
 
-### 🎮 Fun Zone
+### My Life Style
 
 <p align="center">
   <img src="https://media.giphy.com/media/xTiTnqUxyWbsAXq7Ju/giphy.gif" width="150"/>
