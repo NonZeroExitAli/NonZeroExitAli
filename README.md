@@ -1,65 +1,110 @@
-<h1 align="center">Hi 👋, I'm Ali Abdalhalim</h1>
-<h3 align="center">A passionate Computational Biologist from Egypt</h3>
+<!-- 🌌 Animated Header Banner -->
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=nonzeroexitali&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:1E90FF,100:00C3FF&text=✨%20Ali%20Abdalhalim%20✨&fontColor=ffffff&fontSize=45&fontAlignY=40&desc=Computational%20Biologist%20%7C%20AI%20Explorer&descAlignY=65&animation=twinkling" alt="Ali Magdi Header"/>
 </p>
 
----
-
-### 🚀 About Me:
-- 🎓 I’m currently pursuing a **Master’s degree in Bioinformatics for Computational Genomics** — a **joint program** between the **University of Milan (UniMi)** and **Politecnico di Milano (PoliMi)**.
-- 🔭 I’m currently working on [Machine and Deep Learning for Anti-Microbial Peptides Identification](https://github.com/NonZeroExitAli/EVALUATING-MACHINE-LEARNING-CLASSIFIERS-FOR-EFFECTIVE-IDENTIFICATION-OF-ANTIMICROBIAL-PEPTIDES).
-- 🌱 I’m currently learning **Neural Networks**.
-- 👯 I’m looking to collaborate on **Machine and Deep Learning Projects**.
-- 📄 Check out my experiences in my [Resume](https://drive.google.com/file/d/1p6s2kPrxZLcZ74nmBzaUx8C78uSBb5YV/view?usp=sharing).
-- 📫 Reach me at **alimagdi.abdalhalim@mail.polimi.it**.
-- ⚡ Fun Fact: **I listen to cringy songs** 🎵.
-
----
-
-### 🛠️ Languages and Tools:
-<p align="left"> 
-  <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/> </a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/> </a>
-  <a href="https://scikit-learn.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-Learn" width="40" height="40"/> </a>
-  <a href="https://seaborn.pydata.org/" target="_blank"><img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="Seaborn" width="40" height="40"/> </a>
-  <a href="https://www.linux.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/> </a>
-  <a href="https://www.tensorflow.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="40" height="40"/> </a>
-</p>
-
----
-
-### 📊 GitHub Stats:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nonzeroexitali&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nonzeroexitali&show_icons=true&locale=en" alt="GitHub Stats" />
-</p>
-
----
-
-### 🏆 GitHub Achievements:
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=nonzeroexitali" alt="GitHub Trophies" />
-  </a>
-</p>
-
----
-
-### 🌐 Connect with Me:
-<p align="left">
-  <a href="https://x.com/lostalolo" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="X (Twitter)" height="30" width="40" /></a>
-  <a href="https://linkedin.com/in/alimagdiafifimlguy" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
-  <a href="https://fb.com/3loloh" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" /></a>
-</p>
-
----
+<!-- 🪩 Typing Animation -->
 
 <p align="center">
-  <a href="https://x.com/lostalolo" target="blank">
-    <img src="https://img.shields.io/twitter/follow/lostalolo?logo=twitter&style=for-the-badge" alt="Twitter Follow" />
-  </a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00C3FF&center=true&vCenter=true&width=1000&lines=Hi+👋,+I'm+Ali+Abdalhalim;Computational+Biologist+from+Egypt;Bioinformatics+%7C+Machine+Learning+%7C+Genomics;Turning+Data+Into+Discovery+🧬" alt="Typing Animation"/>
+</p>
+
+<h3 align="center">🧬 Computational Biologist | AI Enthusiast | Curious Mind 💡</h3>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=nonzeroexitali&label=Profile%20views&color=1E90FF&style=for-the-badge" alt="Profile Views" />
+</p>
+
+---
+
+### 🌟 About Me
+
+🎓 MSc student in **Bioinformatics for Computational Genomics** *(UniMi × PoliMi)*
+🔬 Researching **Machine & Deep Learning for Antimicrobial Peptide Prediction**
+💻 Developing [EPIC-AMP](https://github.com/NonZeroExitAli/EVALUATING-MACHINE-LEARNING-CLASSIFIERS-FOR-EFFECTIVE-IDENTIFICATION-OF-ANTIMICROBIAL-PEPTIDES)
+🧠 Passionate about **Computational Biology, Genomics, and AI**
+🎧 Fun Fact: *I listen to cringy songs while coding 🎵*
+📫 **[alimagdi.abdalhalim@mail.polimi.it](mailto:alimagdi.abdalhalim@mail.polimi.it)**
+
+---
+
+### 🎮 Fun Zone
+
+<p align="center">
+  <img src="https://media.giphy.com/media/xTiTnqUxyWbsAXq7Ju/giphy.gif" width="150"/>
+  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="150"/>
+  <img src="https://media.giphy.com/media/l3vR85PnGsBwu1PFK/giphy.gif" width="150"/>
+</p>
+
+<p align="center">
+  🧠 “Science is magic that works.” — *Kurt Vonnegut*  
+  <br>💫 *Keep coding, stay curious, and let data tell the story.*
+</p>
+
+---
+
+### 🚀 Mission
+
+> *“Empower biology with intelligence — and intelligence with biology.”*
+
+🌱 Learning: Neural Networks • Protein Structure Prediction • Data Visualization
+🧬 Research Focus:
+
+* Biosequence Classification
+* Feature Extraction & Embedding
+* Model Optimization for Genomic Data
+* Predictive Modeling for AMPs
+
+---
+
+### 🛠️ Languages and Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,cpp,sklearn,tensorflow,linux,vscode,git,github,anaconda,latex,bash&theme=dark" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=nonzeroexitali&show_icons=true&theme=tokyonight" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=nonzeroexitali&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nonzeroexitali&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+### 🏆 Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=nonzeroexitali&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" />
+</p>
+
+---
+
+### 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://github.com/NonZeroExitAli/NonZeroExitAli/blob/output/github-contribution-grid-snake.svg" alt="GitHub Snake Animation" />
+</p>
+
+> 🐍 If you don't see it yet — wait a few minutes after setting up the workflow below.
+
+---
+
+### 🌐 Connect with Me
+
+<p align="center">
+  <a href="https://x.com/lostalolo" target="_blank"><img src="https://skillicons.dev/icons?i=twitter" width="45"/></a>
+  <a href="https://linkedin.com/in/alimagdiafifimlguy" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" width="45"/></a>
+  <a href="https://fb.com/3loloh" target="_blank"><img src="https://skillicons.dev/icons?i=facebook" width="45"/></a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Made%20with%20💙%20by-Ali%20Abdalhalim-1E90FF?style=for-the-badge" />
 </p>
