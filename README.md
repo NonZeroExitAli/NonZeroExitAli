@@ -38,7 +38,6 @@
 </p>
 
 <p align="center">
-  🧠 “Science is magic that works.” — *Kurt Vonnegut*  
   <br>💫 *Keep coding, stay curious, and let data tell the story.*
 </p>
 
@@ -48,7 +47,7 @@
 
 > *“Empower biology with intelligence — and intelligence with biology.”*
 
-🌱 Learning: Neural Networks • Protein Structure Prediction • Data Visualization
+🌱 Learning: Neural Networks • Protein Structure Prediction • Databases
 🧬 Research Focus:
 
 * Biosequence Classification
@@ -93,7 +92,6 @@
   <img src="https://github.com/NonZeroExitAli/NonZeroExitAli/blob/output/github-contribution-grid-snake.svg" alt="GitHub Snake Animation" />
 </p>
 
-> 🐍 If you don't see it yet — wait a few minutes after setting up the workflow below.
 
 ---
 
