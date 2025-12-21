@@ -30,7 +30,7 @@
 
 ---
 
-### 🌧️ Real Ali 
+### 🌧️ Real me 
 
 <div align="center">
 
@@ -50,7 +50,7 @@ not trapped in the loop of a machine’s routine. 🌱✨
 
 ---
 
-### 💫 My Life Style
+### 💫 My Life
 
 <p align="center">
   <img src="https://media.giphy.com/media/xTiTnqUxyWbsAXq7Ju/giphy.gif" width="150"/>
