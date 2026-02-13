@@ -51,12 +51,7 @@ I strive to **improve continuously**, explore the world, and create a warm and f
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=nonzeroexitali&show_icons=true&theme=tokyonight" />
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=nonzeroexitali&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs?username=nonzeroexitali&layout=compact&theme=tokyonight" />
 </p>
 
 
