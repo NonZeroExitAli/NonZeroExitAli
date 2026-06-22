@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2800&pause=900&color=00C3FF&center=true&vCenter=true&width=720&lines=%24+whoami;ali+%E2%80%94+computational+biologist+%40+UniMi+%C3%97+PoliMi;currently+staring+at+viral+genomes+until+they+confess;%24+./run_thesis.sh+--verbose" alt="typing"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2800&pause=900&color=00C3FF&center=true&vCenter=true&width=720&lines=%24+whoami;ali+%E2%80%94+computational+biologist+%40+UniMi+%C3%97+PoliMi;%24+./run_Masters.sh" alt="typing"/>
 </p>
 
 <p align="center">
@@ -26,15 +26,11 @@
 ┌──────────────────────────────────────────────────────────────┐
 │  organism   : Homo sapiens                                   │
 │  habitat    : Milan, IT  ·  often found near coffee & GPUs   │
-│  role       : MSc — Bioinformatics for Computational Genomics│
-│  program    : double degree · UniMi  ×  PoliMi               │
-│  thesis     : ML for viral genomics                          │
+│  role       : MSc Student                                    │
+│  program    : Bioinformatics for Computational Genomics      │
 │  also       : building websites when the terminal gets loud  │
-│  uptime     : variable — depends on the dataset              │
 └──────────────────────────────────────────────────────────────┘
 ```
-
-I study what viruses write in their genomes and what machines can read back. Somewhere between **k-mers and attention heads** lives the question I keep chasing: *can we let a model see what evolution is whispering?*
 
 When the biology gets heavy, I make the internet pretty. Both feel like the same thing — designing systems that communicate.
 
@@ -43,10 +39,8 @@ When the biology gets heavy, I make the internet pretty. Both feel like the same
 ## 🦠 what's running right now
 
 ```diff
-@ thesis/                                     [in progress · ~1%]
-+ machine learning on viral genomic sequences
-+ representation, classification, evolutionary signal
-! deadline approaches at relativistic speed
+@ Master's degree/                             [in progress · ~40%]
+
 
 @ EPIC-AMP/                                   [live · maintained]
 + benchmarking ML + DL classifiers for antimicrobial peptides
@@ -64,17 +58,6 @@ When the biology gets heavy, I make the internet pretty. Both feel like the same
 ```
 
 ---
-
-## 🔬 interests — the messy honest list
-
-> *the things that make me lose track of time*
-
-- viral evolution & sequence dynamics — how genomes drift, jump, rewrite themselves
-- sequence representation learning — embeddings as a microscope
-- AMR & antimicrobial peptides — small molecules, big consequences
-- the web as a creative medium — typography, motion, the joy of `<div>`s that behave
-- the philosophy of reproducibility (`set.seed(42)` is a love letter)
-- the strange overlap between biology and poetry
 
 ---
 
@@ -105,24 +88,14 @@ When the biology gets heavy, I make the internet pretty. Both feel like the same
     <td>
       <img src="https://img.shields.io/badge/biopython-005571?style=flat-square&logo=python&logoColor=white"/>
       <img src="https://img.shields.io/badge/bioconductor-1A1A1A?style=flat-square&logoColor=white"/>
-      <img src="https://img.shields.io/badge/snakemake-039475?style=flat-square&logoColor=white"/>
       <img src="https://img.shields.io/badge/nextflow-0DC09D?style=flat-square&logoColor=white"/>
-      <img src="https://img.shields.io/badge/galaxy-2C5F9E?style=flat-square&logoColor=white"/>
     </td>
   </tr>
-  <tr>
-    <td><b>🌐 web</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/html-E34F26?style=flat-square&logo=html5&logoColor=white"/>
-      <img src="https://img.shields.io/badge/css-1572B6?style=flat-square&logo=css3&logoColor=white"/>
-      <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-    </td>
-  </tr>
+  
   <tr>
     <td><b>⚙️ env</b></td>
     <td>
       <img src="https://img.shields.io/badge/linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
-      <img src="https://img.shields.io/badge/docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
       <img src="https://img.shields.io/badge/git-F05032?style=flat-square&logo=git&logoColor=white"/>
       <img src="https://img.shields.io/badge/conda-44A833?style=flat-square&logo=anaconda&logoColor=white"/>
       <img src="https://img.shields.io/badge/jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white"/>
